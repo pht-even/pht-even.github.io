@@ -1,10 +1,12 @@
 # ePortfolio
 
-Here, you can find all my uploaded projects as well as my [GitHub page](https://github.com/pht-even).
+Here, you can find all my enhancements as well as my [GitHub page](https://github.com/pht-even).
 
 
 ## Code Review
+This code review introduces and walks through each of the three artifacts. 
 
+[Video]
 
 ## Enhancement One - Software Design and Eng.
 ### Narrative 
