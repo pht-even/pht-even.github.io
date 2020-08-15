@@ -22,9 +22,20 @@ During the enhancement of the ZooAuthenticator, I learned a lot about Python and
 ## Enhancement Two - Data Structures and Algorithms
 ### Narrative 
 
+This is an extension onto Enhancement One. However, more functionality has been added to the program. My goal was to translate the original program from Java to Python and implement a hash table to manage employees. I have accomplished the first goal, the translation. I expanded on the dictionary use. I have added the ability to update, find and remove employees from the Python dictionary and save the results in the employees.json file. Any person can register as a new employee via a registration process. When an admin logs in however, they are able to view employees, remove employees, and update employee information with search algorithms. This is accomplished by using key-value pairs which significantly cut down on search and load times within the program. This artifact shows competency of data structures through the use of dictionaries and algorithms through the search, update, and delete functions that accompany the dictionary.
+
+The thing I learned most during this process is about Python dictionaries. In Java, I remember having to construct the hash table from scratch. Although this might have been just an exploration/learning exercise of a hash table, I found implementing a Python dictionary much easier.
+
+
 [Enhancement Two](https://github.com/pht-even/CS499_ZooAuthenticator)
 
 ## Enhancement Three - Databases
 ### Narrative 
+
+This artifact is a RESTful API that utilizes MongoDB, Express, and Node.js to perform CRUD operations on a database. This artifact was created recently but was inspired by the DAD-220 course along with the CS-340 course. Originally, this project was a collection of simple SQL CRUD commands. The enhancements I have performed on this artifact have made it into a RESTful API. 
+
+Justification for this artifact is straight-forward. This encompasses the concept of databases. This artifact demonstrates my knowledge on database structure, CRUD commands, MongoDB, Node.js, and Express. I met my enhancement objectives, but I would have really liked to turn the project into a web page using forms. I was unable to complete this at this time, however.
+  
+I came into this enhancement with very low confidence. I wasn’t able to previously get a fully working RESTful API working in my CS-4340 course, but I managed it this go-around.  RESTful API can be very complicated as I have learned during this enhancement. They can also be very confusing if they grow large. I also learned about Node.js during this enhancement which is key because I used PyMongo previously. Overall, this was a challenging experience getting everything to work as intended and I am happy with the outcome.
 
 [Enhancement Three](https://github.com/pht-even/CS-499_REST)
