@@ -4,7 +4,7 @@ Here, you can find all my enhancements as well as my [GitHub page](https://githu
 
 
 ## Code Review
-This code review introduces and walks through each of the three artifacts. 
+This code review introduces and walks through my artifacts and explains the enhancements to be made. 
 
 [Video]
 
