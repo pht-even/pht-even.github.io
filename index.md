@@ -8,12 +8,6 @@ Throughout my educational journey at Southern New Hampshire University and while
 
 The artifacts I will be enhancing are from various courses throughout my time at SNHU. I will be performing enhancements on these artifacts to improved on their efficiency as well as their functionality. The Zoo Authenticator program I will be enhancing in the first section was written in Java. I will translate this program to Python as well as add hash table functionality. The final enhancement will be performed on a small excerpt of SQL code. I will not be using the SQL code as I plan on creating a RESTful PAI using MongoDB, Node.js, and Express.
 
-
-## Code Review
-This code review introduces and walks through my artifacts and explains the enhancements to be made. 
-
-YouTube link: [Code Review](https://youtu.be/d5FUlDptTbc)
-
 ## Enhancement One - Software Design and Eng.
 ### Narrative 
 
